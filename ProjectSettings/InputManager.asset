@@ -22,7 +22,6 @@ InputManager:
     axis: 0
     joyNum: 0
   - serializedVersion: 3
-<<<<<<< HEAD
     m_Name: Depth
     descriptiveName: 
     descriptiveNegativeName: 
@@ -39,8 +38,6 @@ InputManager:
     axis: 0
     joyNum: 0
   - serializedVersion: 3
-=======
->>>>>>> eos/stable
     m_Name: Vertical
     descriptiveName: 
     descriptiveNegativeName: 
@@ -57,7 +54,6 @@ InputManager:
     axis: 0
     joyNum: 0
   - serializedVersion: 3
-<<<<<<< HEAD
     m_Name: Fire1
     descriptiveName: 
     descriptiveNegativeName: 
@@ -65,15 +61,6 @@ InputManager:
     positiveButton: left ctrl
     altNegativeButton: 
     altPositiveButton: mouse 0
-=======
-    m_Name: B
-    descriptiveName: 
-    descriptiveNegativeName: 
-    negativeButton: 
-    positiveButton: joystick button 1
-    altNegativeButton: 
-    altPositiveButton: 
->>>>>>> eos/stable
     gravity: 1000
     dead: 0.001
     sensitivity: 1000
@@ -147,7 +134,6 @@ InputManager:
     axis: 0
     joyNum: 0
   - serializedVersion: 3
-<<<<<<< HEAD
     m_Name: Yaw
     descriptiveName: 
     descriptiveNegativeName: 
@@ -164,8 +150,6 @@ InputManager:
     axis: 0
     joyNum: 0
   - serializedVersion: 3
-=======
->>>>>>> eos/stable
     m_Name: Mouse Y
     descriptiveName: 
     descriptiveNegativeName: 
@@ -182,7 +166,6 @@ InputManager:
     axis: 1
     joyNum: 0
   - serializedVersion: 3
-<<<<<<< HEAD
     m_Name: Pitch
     descriptiveName: 
     descriptiveNegativeName: 
@@ -199,8 +182,6 @@ InputManager:
     axis: 1
     joyNum: 0
   - serializedVersion: 3
-=======
->>>>>>> eos/stable
     m_Name: Mouse ScrollWheel
     descriptiveName: 
     descriptiveNegativeName: 
@@ -231,7 +212,6 @@ InputManager:
     invert: 0
     type: 2
     axis: 0
-<<<<<<< HEAD
     joyNum: 0
   - serializedVersion: 3
     m_Name: Roll
@@ -249,9 +229,6 @@ InputManager:
     type: 2
     axis: 0
     joyNum: 0
-=======
-    joyNum: 1
->>>>>>> eos/stable
   - serializedVersion: 3
     m_Name: Vertical
     descriptiveName: 
@@ -267,41 +244,6 @@ InputManager:
     invert: 1
     type: 2
     axis: 1
-<<<<<<< HEAD
-=======
-    joyNum: 1
-  - serializedVersion: 3
-    m_Name: Horizontal
-    descriptiveName: 
-    descriptiveNegativeName: 
-    negativeButton: 
-    positiveButton: 
-    altNegativeButton: 
-    altPositiveButton: 
-    gravity: 0
-    dead: 0
-    sensitivity: 1
-    snap: 0
-    invert: 0
-    type: 2
-    axis: 5
-    joyNum: 0
-  - serializedVersion: 3
-    m_Name: Vertical
-    descriptiveName: 
-    descriptiveNegativeName: 
-    negativeButton: 
-    positiveButton: 
-    altNegativeButton: 
-    altPositiveButton: 
-    gravity: 0
-    dead: 0
-    sensitivity: 1
-    snap: 0
-    invert: 0
-    type: 2
-    axis: 6
->>>>>>> eos/stable
     joyNum: 0
   - serializedVersion: 3
     m_Name: Fire1
@@ -384,7 +326,6 @@ InputManager:
     axis: 0
     joyNum: 0
   - serializedVersion: 3
-<<<<<<< HEAD
     m_Name: Submit
     descriptiveName: 
     descriptiveNegativeName: 
@@ -392,15 +333,6 @@ InputManager:
     positiveButton: enter
     altNegativeButton: 
     altPositiveButton: space
-=======
-    m_Name: RB
-    descriptiveName: 
-    descriptiveNegativeName: 
-    negativeButton: 
-    positiveButton: joystick button 5
-    altNegativeButton: 
-    altPositiveButton: 
->>>>>>> eos/stable
     gravity: 1000
     dead: 0.001
     sensitivity: 1000
@@ -426,7 +358,6 @@ InputManager:
     axis: 0
     joyNum: 0
   - serializedVersion: 3
-<<<<<<< HEAD
     m_Name: Enable Debug Button 1
     descriptiveName: 
     descriptiveNegativeName: 
@@ -562,15 +493,6 @@ InputManager:
     positiveButton: right
     altNegativeButton: 
     altPositiveButton: 
-=======
-    m_Name: R3
-    descriptiveName: 
-    descriptiveNegativeName: 
-    negativeButton: 
-    positiveButton: 
-    altNegativeButton: 
-    altPositiveButton: joystick button 11
->>>>>>> eos/stable
     gravity: 1000
     dead: 0.001
     sensitivity: 1000
@@ -579,7 +501,6 @@ InputManager:
     type: 0
     axis: 0
     joyNum: 0
-<<<<<<< HEAD
   - serializedVersion: 3
     m_Name: Debug Vertical
     descriptiveName: 
@@ -629,6 +550,3 @@ InputManager:
     axis: 5
     joyNum: 0
   m_UsePhysicalKeys: 1
-=======
-  m_UsePhysicalKeys: 0
->>>>>>> eos/stable
