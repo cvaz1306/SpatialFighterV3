@@ -1,5 +1,6 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "com.playeveryware.eos": {
       "version": "file:../com.playeveryware.eos-3.0.3.tgz",
       "depth": 0,
@@ -18,6 +19,11 @@
     "com.unity.burst": {
       "version": "1.8.4",
       "depth": 1,
+=======
+    "com.unity.burst": {
+      "version": "1.6.6",
+      "depth": 2,
+>>>>>>> eos/stable
       "source": "registry",
       "dependencies": {
         "com.unity.mathematics": "1.2.1"
@@ -25,6 +31,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.collab-proxy": {
+<<<<<<< HEAD
       "version": "2.0.4",
       "depth": 0,
       "source": "registry",
@@ -38,24 +45,50 @@
       "dependencies": {
         "com.unity.burst": "1.6.6",
         "com.unity.nuget.mono-cecil": "1.11.4",
+=======
+      "version": "1.17.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.services.core": "1.0.1"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.collections": {
+      "version": "1.2.4",
+      "depth": 2,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.burst": "1.6.6",
+>>>>>>> eos/stable
         "com.unity.test-framework": "1.1.31"
       },
       "url": "https://packages.unity.com"
     },
     "com.unity.editorcoroutines": {
       "version": "1.0.0",
+<<<<<<< HEAD
       "depth": 1,
+=======
+      "depth": 0,
+>>>>>>> eos/stable
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.ext.nunit": {
+<<<<<<< HEAD
       "version": "2.0.3",
       "depth": 2,
+=======
+      "version": "1.0.6",
+      "depth": 1,
+>>>>>>> eos/stable
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.feature.development": {
       "version": "1.0.2",
       "depth": 0,
@@ -72,6 +105,11 @@
     "com.unity.ide.rider": {
       "version": "3.0.20",
       "depth": 1,
+=======
+    "com.unity.ide.rider": {
+      "version": "3.0.15",
+      "depth": 0,
+>>>>>>> eos/stable
       "source": "registry",
       "dependencies": {
         "com.unity.ext.nunit": "1.0.6"
@@ -79,28 +117,69 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.visualstudio": {
+<<<<<<< HEAD
       "version": "2.0.18",
       "depth": 1,
+=======
+      "version": "2.0.16",
+      "depth": 0,
+>>>>>>> eos/stable
       "source": "registry",
       "dependencies": {
         "com.unity.test-framework": "1.1.9"
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.mathematics": {
       "version": "1.2.6",
       "depth": 1,
+=======
+    "com.unity.ide.vscode": {
+      "version": "1.2.5",
+      "depth": 0,
+>>>>>>> eos/stable
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.nuget.mono-cecil": {
       "version": "1.11.4",
+=======
+    "com.unity.mathematics": {
+      "version": "1.2.6",
       "depth": 2,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.unity.netcode.gameobjects": {
+      "version": "1.0.2",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.nuget.mono-cecil": "1.10.1",
+        "com.unity.transport": "1.2.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.nuget.mono-cecil": {
+      "version": "1.10.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.nuget.newtonsoft-json": {
+      "version": "3.0.2",
+>>>>>>> eos/stable
+      "depth": 2,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+<<<<<<< HEAD
     "com.unity.performance.profile-analyzer": {
       "version": "1.2.2",
       "depth": 1,
@@ -149,10 +228,36 @@
     "com.unity.searcher": {
       "version": "4.9.2",
       "depth": 2,
+=======
+    "com.unity.postprocessing": {
+      "version": "3.2.2",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.physics": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.services.core": {
+      "version": "1.4.2",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.nuget.newtonsoft-json": "3.0.2",
+        "com.unity.modules.androidjni": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.sysroot": {
+      "version": "2.0.7",
+      "depth": 1,
+>>>>>>> eos/stable
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.settings-manager": {
       "version": "2.0.1",
       "depth": 2,
@@ -175,11 +280,29 @@
       "source": "registry",
       "dependencies": {
         "com.unity.ext.nunit": "2.0.3",
+=======
+    "com.unity.sysroot.linux-x86_64": {
+      "version": "2.0.6",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.sysroot": "2.0.7"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.test-framework": {
+      "version": "1.1.31",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ext.nunit": "1.0.6",
+>>>>>>> eos/stable
         "com.unity.modules.imgui": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.testtools.codecoverage": {
       "version": "1.2.3",
       "depth": 1,
@@ -201,6 +324,10 @@
     },
     "com.unity.timeline": {
       "version": "1.8.2",
+=======
+    "com.unity.timeline": {
+      "version": "1.6.4",
+>>>>>>> eos/stable
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -211,6 +338,30 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
+=======
+    "com.unity.toolchain.win-x86_64-linux-x86_64": {
+      "version": "2.0.6",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.sysroot": "2.0.7",
+        "com.unity.sysroot.linux-x86_64": "2.0.6"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.transport": {
+      "version": "1.2.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.collections": "1.2.4",
+        "com.unity.burst": "1.6.6",
+        "com.unity.mathematics": "1.2.6"
+      },
+      "url": "https://packages.unity.com"
+    },
+>>>>>>> eos/stable
     "com.unity.ugui": {
       "version": "1.0.0",
       "depth": 0,
@@ -220,6 +371,7 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+<<<<<<< HEAD
     "com.unity.visualeffectgraph": {
       "version": "15.0.5",
       "depth": 1,
@@ -239,6 +391,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> eos/stable
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
@@ -374,6 +528,20 @@
       "dependencies": {
         "com.unity.modules.ui": "1.0.0",
         "com.unity.modules.imgui": "1.0.0",
+<<<<<<< HEAD
+=======
+        "com.unity.modules.jsonserialize": "1.0.0",
+        "com.unity.modules.uielementsnative": "1.0.0"
+      }
+    },
+    "com.unity.modules.uielementsnative": {
+      "version": "1.0.0",
+      "depth": 1,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.modules.ui": "1.0.0",
+        "com.unity.modules.imgui": "1.0.0",
+>>>>>>> eos/stable
         "com.unity.modules.jsonserialize": "1.0.0"
       }
     },
